@@ -1,0 +1,10 @@
+# Reported results were produced with these versions on Python 3.11 / CUDA 12.4.
+torch==2.5.1
+deepwave==0.0.20
+tensorflow==2.19.0
+keras-tuner==1.4.7
+numpy==1.26.4
+scipy==1.13.1
+scikit-learn==1.5.0
+scikit-image==0.24.0
+matplotlib==3.9.0
